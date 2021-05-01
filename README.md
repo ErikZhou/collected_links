@@ -9,17 +9,7 @@
 - [Resilio Sync License 授权文件下载](https://lai.yuweining.cn/archives/956/)
 
 ## 科学上网
-- [SocksCap64 实现全局代理（代替软件有proxifier）](https://lai.yuweining.cn/archives/1151/)
-- [Yandex：免费万事达虚拟信用卡申请教程](https://lai.yuweining.cn/archives/1043/)
-- [TextNow：国外免费手机号码](https://lai.yuweining.cn/archives/1039/)
-- [Surge for Mac2.0 破解版 & 开心版](https://lai.yuweining.cn/archives/694/)
-- [doub.io 免费ss账号分享](https://doub.bid/sszhfx/)
-- [不死鸟 涅槃](http://yuweining.cn/niepan/)   新域名： [sss.kiwi](sss.kiwi)
-- [有饭](http://yf.ci/world)
-- [Esadn](https://sss.kiwi/free/esadn.html)    防和谐记录dns地址 180.97.235.30
-- [vbox](https://www.vbox.co/)
-- [namaho](https://www.namaho.org/ssweb/user/info)
-- [Alvin9999免费SS](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+- [Alvin9999免费v2ray](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 - [一键科学上网](https://www.babel.cc/share.do?s=1785053810418722)
 - [bladevpn官网](https://www.bladevpn.com)
 - [AlphaVPN 官方市场直接搜索]()
