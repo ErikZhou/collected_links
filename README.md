@@ -8,14 +8,6 @@
 - [BT导航网](http://wherebt.com/)
 - [Resilio Sync License 授权文件下载](https://lai.yuweining.cn/archives/956/)
 
-## blog工具
-- [回响](http://typecho.org/)
-- [ruby wiki](http://ruby-doc.org/core-2.4.1/Time.html#method-i-strftime)
-- [shopify help center](https://help.shopify.com/themes/liquid/filters/additional-filters#date)
-- [Liquid语法文档](https://alfred-sun.github.io/blog/2015/01/10/jekyll-liquid-syntax-documentation/)
-- [rouge语法高亮](https://github.com/jneen/rouge)
-- [优云监控](https://web.uyun.cn/)
-
 ## 视频收藏
 - [勺子杀人狂](https://lai.yuweining.cn/archives/1152/)
 - [在线看视频](http://www.djhuo.com/)
