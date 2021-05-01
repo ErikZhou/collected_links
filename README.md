@@ -8,7 +8,7 @@
 
 - [BT导航网](http://wherebt.com/)
 - [Resilio Sync License 授权文件下载](https://lai.yuweining.cn/archives/956/)
-- [不死鸟 sync key](https://lai.yuweining.cn/archives/696/)
+
 
 ## 福利
 - [何奕恋](http://www.vlook.cn/ta/qs/dWlkPTIyNzc4MDI=)
