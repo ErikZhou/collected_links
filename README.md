@@ -1,6 +1,9 @@
 # collected_links
 收藏的链接
 
+# 罗辑思维得到，喜马拉雅
+BVTHZJAYPJJYMV4UQRBE5GXWSOPL6G44D
+
 ## btsync
 - [同步范](https://syncfan.com/)
 - [常来](http://changlai.net/)
