@@ -13,28 +13,7 @@
 - [Google镜像](http://gabc.ml/)
 
 ## 图片UI资源
-- [uidownload：免费设计资源站下载站](https://lai.yuweining.cn/archives/1142/)
-- [Imagine：开源的 PNG/JPEG 压缩工具](https://lai.yuweining.cn/archives/1090/)
-- [AutoDraw：自动绘图工具](https://lai.yuweining.cn/archives/1048/)
-- [草莓图标：前端字体图标库](https://lai.yuweining.cn/archives/1016/)
-- [快速缩小视频体积 10 倍](https://lai.yuweining.cn/archives/985/)
-- [instaDown：ios 平台免费下载 instagram 图片和视频](https://lai.yuweining.cn/archives/948/)
-- [标你妹啊：全自动化的标注工具](https://lai.yuweining.cn/archives/936/)
-- [十秒撸出专业设计的图标](https://lai.yuweining.cn/archives/932/)
-- [bossfight 图站](https://bossfight.co/category/people/)
-- [图片分享](http://streetwill.co/)
-- [无版权图片网站汇总](https://lai.yuweining.cn/archives/575/)
-- [51GIF：GIF 动图中文搜索平台](http://www.51gif.com/)
-- [免费图片](https://pixabay.com/zh/%E5%A5%B3%E5%AD%90-%E5%A5%B3%E6%80%A7-%E7%BE%8E%E4%B8%BD-%E6%83%85%E8%89%B2-%E6%84%9F%E5%AE%98-%E6%A0%91-%E6%80%A7%E8%B4%A8-%E7%8E%AF%E5%A2%83-%E6%99%AF%E8%A7%82-%E8%89%BA%E6%9C%AF-845850/)
-- [壁纸](https://lai.yuweining.cn/archives/757/)
 - [Pixabay：最好用的无版权图片网站](https://pixabay.com/)
-- [wallpaperbetter：专业的壁纸网站](http://www.wallpaperbetter.com/)
-- [splashify](https://splashify.net/)
-- [随机占位图片](https://alpha.wallhaven.cc/random?page=10)
-- [unsplash](https://unsplash.com/)
-- [500px](https://500px.com/photo/207973549/lake-eibsee-by-marina-weishaupt?ctx_page=5&from=editors)
-- [piccsy](http://piccsy.com/)
-- [walldevil](https://www.walldevil.com/)
 
 ## chrome 扩展
 - [二箱](https://ainoob.com/zh/project/noobox)
