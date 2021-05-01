@@ -11,9 +11,7 @@
 
 
 ## 福利
-- [何奕恋](http://www.vlook.cn/ta/qs/dWlkPTIyNzc4MDI=)
-- [不死鸟 分享为王](https://lai.yuweining.cn/)
-- [QQ 音乐歌单在线导出](https://lai.yuweining.cn/archives/968/)
+
 - [发你视频：手机上的视频下载神器](https://lai.yuweining.cn/archives/962/)
 - [600 + 套 PPT 模板免费打包下载](https://lai.yuweining.cn/archives/913/)
 - [BT 磁力搜索引擎索引](https://lai.yuweining.cn/archives/909/)
