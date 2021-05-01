@@ -5,36 +5,8 @@
 - [罗辑思维得到，喜马拉雅] BVTHZJAYPJJYMV4UQRBE5GXWSOPL6G44D
 
 ## btsync
-
 - [BT导航网](http://wherebt.com/)
 - [Resilio Sync License 授权文件下载](https://lai.yuweining.cn/archives/956/)
-
-
-## 福利
-
-- [发你视频：手机上的视频下载神器](https://lai.yuweining.cn/archives/962/)
-- [600 + 套 PPT 模板免费打包下载](https://lai.yuweining.cn/archives/913/)
-- [BT 磁力搜索引擎索引](https://lai.yuweining.cn/archives/909/)
-- [飞客BT搜索](http://www.feikebt.com/)
-- [AVMOO：老司机鸡儿不放假](https://lai.yuweining.cn/archives/856/)
-- [福利导航](https://lai.yuweining.cn/fuli.html#menu_index_5)
-- [avgle ： 老司机不可描述网站](https://lai.yuweining.cn/archives/844/)
-- [免费喝汤](https://lai.yuweining.cn/archives/823/)
-- [AVnight：无需科学上网的老司机看片 APP](http://www.iavnight.com/)
-- [煎蛋年度妹子图 TOP1000](https://lai.yuweining.cn/archives/764/)
-- [里番下载](https://bt.cosxcos.com/)
-- [艾薇多多](https://avduoduo.com/)
-- [Sleazy Fork，一个提供成人用户脚本的网站。](https://sleazyfork.org/zh-CN)
-- [测试版云播](https://apiv.ga/magnet/)
-- [Google 镜像网站索引](https://lai.yuweining.cn/archives/107/)
-- [带配音的gif图](http://coub.com/)
-- [百度云群组](http://yunqunzu.net/)
-- [安卓软件合集](http://bbs.zhiyoo.com/space-uid-11032034.html)
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet)
-- [破解软件下载](http://www.sdifen.com/)
-- [免费一年美国VPS](https://lai.yuweining.cn/archives/1179/)
-- [滴滴](http://xumeiyun.ml)
-- [acg](https://acg12.com/)
 
 ## blog工具
 - [回响](http://typecho.org/)
