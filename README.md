@@ -1,5 +1,5 @@
 # collected_links
-收藏的链接
+Resilio Sync相关资源收藏的链接
 
 ## 推荐资源
 - [罗辑思维得到，喜马拉雅] BVTHZJAYPJJYMV4UQRBE5GXWSOPL6G44D
@@ -7,13 +7,6 @@
 ## btsync
 - [BT导航网](http://wherebt.com/)
 - [Resilio Sync License 授权文件下载](https://lai.yuweining.cn/archives/956/)
-
-## 视频收藏
-- [勺子杀人狂](https://lai.yuweining.cn/archives/1152/)
-- [在线看视频](http://www.djhuo.com/)
-- [youtube下载器](http://online-downloader.com/index-Chinese)
-- [追剧小管家](http://neets.cc/)
-- [在线下载视频](https://video-get.com/)
 
 ## 科学上网
 - [SocksCap64 实现全局代理（代替软件有proxifier）](https://lai.yuweining.cn/archives/1151/)
