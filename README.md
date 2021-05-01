@@ -10,10 +10,7 @@
 
 ## 科学上网
 - [Alvin9999免费v2ray](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-- [一键科学上网](https://www.babel.cc/share.do?s=1785053810418722)
-- [bladevpn官网](https://www.bladevpn.com)
-- [AlphaVPN 官方市场直接搜索]()
-- [不死鸟服务器列表](https://lai.yuweining.cn/archives/22/)
+- [Google镜像](http://gabc.ml/)
 
 ## 图片UI资源
 - [uidownload：免费设计资源站下载站](https://lai.yuweining.cn/archives/1142/)
