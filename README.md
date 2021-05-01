@@ -1,15 +1,11 @@
 # collected_links
 收藏的链接
 
-# 罗辑思维得到，喜马拉雅
-BVTHZJAYPJJYMV4UQRBE5GXWSOPL6G44D
+## 推荐资源
+- [罗辑思维得到，喜马拉雅] BVTHZJAYPJJYMV4UQRBE5GXWSOPL6G44D
 
 ## btsync
-- [同步范](https://syncfan.com/)
-- [常来](http://changlai.net/)
-- [神key](https://bit.surf:43110/btsynckeys.bit)
-- [BT你妹车站](https://bbs.btnimei.xyz/category/27/%E8%BD%A6%E7%AB%99)
-- [资源站](https://www.btsynckeys.com/40)
+
 - [BT导航网](http://wherebt.com/)
 - [Resilio Sync License 授权文件下载](https://lai.yuweining.cn/archives/956/)
 - [不死鸟 sync key](https://lai.yuweining.cn/archives/696/)
